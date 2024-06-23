@@ -3,7 +3,7 @@ In this Repository, the Object Oriented Concepts in c++ are used to develop a so
 
 
 # Project Classes
-- User.h:
+- User:
 
 Defines the User class with attributes like userID, name, email, password, etc.
 Methods include setters and getters for user information, registration, authentication, friend management (request, accept, decline), etc.
